@@ -38,3 +38,5 @@ func readfile(filename string) {
 	fmt.Println("text data inside the file is \n", databyte)
 
 }
+
+//git sttus
