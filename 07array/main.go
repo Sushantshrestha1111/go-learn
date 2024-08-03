@@ -14,7 +14,8 @@ func main() {
 	fmt.Println(fruits)
 	fmt.Println("there are :", len(fruits))
 	//thing to note ever if there are 3 fruits in the list it will show 4 because we have declared the array size of 4 kinda strange but it is what it is
-
+	//note
+	//note
 	var veglist = [4]string{"potato", "beans", "mushroom", "tomato"}
 
 	fmt.Println("The list of vegitables are:", veglist)
